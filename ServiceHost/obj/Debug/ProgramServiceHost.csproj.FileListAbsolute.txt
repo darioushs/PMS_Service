@@ -1,0 +1,10 @@
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\RelationManagement.dll
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\RelationManagement.pdb
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\RelationManagement.dll.config
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\obj\Debug\ProgramServiceHost.csprojAssemblyReference.cache
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\obj\Debug\ProgramServiceHost.csproj.CopyComplete
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\obj\Debug\ServiceHost.pdb

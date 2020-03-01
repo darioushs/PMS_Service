@@ -1,0 +1,6 @@
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\RelationManagement.dll.config
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\RelationManagement.dll
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\RelationManagement.pdb
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\obj\Debug\RelationManagement.csprojAssemblyReference.cache
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\obj\Debug\RelationManagement.dll
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\obj\Debug\RelationManagement.pdb
