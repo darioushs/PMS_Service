@@ -11,10 +11,10 @@ namespace ProgramServiceHost
     {
         static void Main()
         {
-            using (ServiceHost host = new ServiceHost(typeof(RelationManagement.DatabaseConnector)))
+            using (ServiceHost host = new ServiceHost(typeof(RelationManagement.PMS_API)))
             {
                 host.Open();
-                Console.WriteLine("hoste started");
+                Console.WriteLine("host started");
                 Console.ReadLine();
             }
         }
