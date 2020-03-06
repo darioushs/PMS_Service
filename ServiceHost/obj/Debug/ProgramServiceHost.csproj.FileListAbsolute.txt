@@ -26,3 +26,11 @@ C:\Users\dario\Documents\Projects\PMS_Service\ServiceHost\obj\Debug\ProgramServi
 C:\Users\dario\Documents\Projects\PMS_Service\ServiceHost\obj\Debug\ProgramServiceHost.csproj.CopyComplete
 C:\Users\dario\Documents\Projects\PMS_Service\ServiceHost\obj\Debug\ServiceHost.exe
 C:\Users\dario\Documents\Projects\PMS_Service\ServiceHost\obj\Debug\ServiceHost.pdb
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\MySql.Data.dll
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\Google.Protobuf.dll
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\Renci.SshNet.dll
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\MySql.Data.xml
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\Google.Protobuf.xml
+C:\Users\dario\source\repos\RelationManagerService\ServiceHost\bin\Debug\Renci.SshNet.xml

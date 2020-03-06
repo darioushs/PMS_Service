@@ -2,10 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.Serialization;
-using System.ServiceModel;
-using System.Text;
-
 
 namespace RelationManagement
 {
@@ -13,10 +9,12 @@ namespace RelationManagement
     public class DatabaseConnector
     {
         private MySqlConnection Connection;
-
+        
         public void Connect(string hostname, int port, string root, string password, string database)
         {
-            string conn = "Server=" + hostname + ";user=" + root + ";databse=" + database + ";port=" + port + ";password=" + password;
+            SeniorProject seniorProject = new SeniorProject();
+            string conn = "Server=" + hostname + ";user=" + root + ";database=" + database + ";port=" + port + ";password=" + password;
+            SeniorProject sp = new SeniorProject();
             Console.WriteLine(conn);
             try
             {

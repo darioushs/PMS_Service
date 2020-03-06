@@ -11,7 +11,7 @@ namespace ProgramServiceHost
     {
         static void Main()
         {
-            using (ServiceHost host = new ServiceHost(typeof(RelationManagement.PMS_API)))
+            using (ServiceHost host = new ServiceHost(typeof(RelationManagement.UserManagement)))
             {
                 host.Open();
                 Console.WriteLine("host started");

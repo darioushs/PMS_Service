@@ -19,3 +19,12 @@ C:\Users\dario\Documents\Projects\PMS_Service\RelationManagement\obj\Debug\Relat
 C:\Users\dario\Documents\Projects\PMS_Service\RelationManagement\obj\Debug\RelationManagement.csproj.CopyComplete
 C:\Users\dario\Documents\Projects\PMS_Service\RelationManagement\obj\Debug\RelationManagement.dll
 C:\Users\dario\Documents\Projects\PMS_Service\RelationManagement\obj\Debug\RelationManagement.pdb
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\MySql.Data.dll
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\Renci.SshNet.dll
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\Google.Protobuf.xml
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\MySql.Data.xml
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\bin\Debug\Renci.SshNet.xml
+C:\Users\dario\source\repos\RelationManagerService\RelationManagement\obj\Debug\RelationManagement.csproj.CopyComplete
