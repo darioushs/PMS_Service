@@ -9,10 +9,12 @@ namespace RelationManagement
     public class DatabaseConnector
     {
         private MySqlConnection Connection;
-        
+
         public void Connect(string hostname, int port, string root, string password, string database)
         {
-            SeniorProject seniorProject = new SeniorProject();
+            //using (var context = new SeniorProject()) {
+            //    var res = from u in context.User
+            //        }
             string conn = "Server=" + hostname + ";user=" + root + ";database=" + database + ";port=" + port + ";password=" + password;
             SeniorProject sp = new SeniorProject();
             Console.WriteLine(conn);
