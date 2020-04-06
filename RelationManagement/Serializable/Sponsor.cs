@@ -7,12 +7,11 @@ using System.Threading.Tasks;
 namespace RelationManagement
 {
     [Serializable]
-    public class Memeber
+    public class Sponsor
     {
-        int id;
-        int projectId;
-        string userType;
-        int profNetId;
-        int studentNetId;
+        int Id;
+        int ProjectId;
+        string CompanyName;
+        string CompanyPOC;
     }
 }

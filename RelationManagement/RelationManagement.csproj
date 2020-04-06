@@ -74,7 +74,6 @@
     <Compile Include="IAuthentication.cs" />
     <Compile Include="IContractManagement.cs" />
     <Compile Include="IUserManagement.cs" />
-    <Compile Include="Memeber.cs" />
     <Compile Include="ProjectManagement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
@@ -87,6 +86,22 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>SeniorProject.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Serializable\Contract.cs" />
+    <Compile Include="Serializable\Member.cs" />
+    <Compile Include="Serializable\Professor.cs" />
+    <Compile Include="Serializable\Project.cs" />
+    <Compile Include="Serializable\Sponsor.cs" />
+    <Compile Include="Serializable\Student.cs" />
+    <Compile Include="Serializable\Up_date.cs" />
+    <Compile Include="Serializable\User.cs" />
+    <Compile Include="Services\ContractService.cs" />
+    <Compile Include="Services\MemberService.cs" />
+    <Compile Include="Services\ProfessorService.cs" />
+    <Compile Include="Services\ProjectService.cs" />
+    <Compile Include="Services\SponsorService.cs" />
+    <Compile Include="Services\StudentService.cs" />
+    <Compile Include="Services\Up_dateService.cs" />
+    <Compile Include="Services\UserService.cs" />
     <Compile Include="SponsorManagement.cs" />
     <Compile Include="UserManagement.cs" />
   </ItemGroup>
@@ -109,6 +124,7 @@
       <DependentUpon>SeniorProject.xsd</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <VSToolsPath Condition="'$(VSToolsPath)' == '' and '$(VisualStudioVersion)' != '' and '$(VisualStudioVersion)' != '11.0'">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
