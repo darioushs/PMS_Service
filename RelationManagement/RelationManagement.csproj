@@ -71,6 +71,7 @@
     <Compile Include="Authentication.cs" />
     <Compile Include="ContractManagement.cs" />
     <Compile Include="DatabaseConnector.cs" />
+    <Compile Include="DBConnected.cs" />
     <Compile Include="IAuthentication.cs" />
     <Compile Include="IContractManagement.cs" />
     <Compile Include="IUserManagement.cs" />
