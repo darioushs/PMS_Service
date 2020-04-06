@@ -9,6 +9,28 @@ namespace RelationManagement
     public class DatabaseConnector
     {
         private MySqlConnection Connection;
+        private SeniorProject DatabaseInstance;
+        public static DatabaseConnector databaseConnectorSingleton = new DatabaseConnector();
+
+        public DatabaseConnector()
+        {
+            //Connect(); We are not using this method of connecting to the database
+            CreateDatabaseInstance();
+        }
+
+        public int Connect()
+        {
+            try
+            {
+                Connect("senior-project.cvmprfnml7ye.us-east-2.rds.amazonaws.com", 3306, "standard-user", "KennesawState!!", "SeniorProject");
+                return 1;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+                return 0;
+            }
+        }
 
         public void Connect(string hostname, int port, string root, string password, string database)
         {
@@ -28,6 +50,17 @@ namespace RelationManagement
             {
                 Console.WriteLine(ex);
             }
+        }
+
+        private void CreateDatabaseInstance()
+        {
+            DatabaseInstance = new SeniorProject();
+        }
+
+
+        public SeniorProject GetDatabaseInstance()
+        {
+            return DatabaseInstance;
         }
     }
 }
